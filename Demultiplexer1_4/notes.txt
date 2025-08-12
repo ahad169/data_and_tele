@@ -1,0 +1,26 @@
+Design and implement 1:4 demultiplexer
+
+A demultiplexer is a device that take a single input line
+and routes it one of several digital output line. A
+Demultiplexer is called data distriutor.
+
+S0 | S1 | output	data   ____
+---------------------	--------|	 |-----  D0
+ 0  |   0  |  D0	         |       |-----  D1
+ 0  |   1  |  D0	         |       |------ D2
+ 0  |   0  |  D0	         |       |------ D3
+ 1  |   1  |  D0                     -------
+		          |      |
+		          S0 S1
+
+Apparatus:
+1. 4073
+2. Logic State
+3. Logic probe (big) 
+4. Not
+		         
+
+
+
+
+
